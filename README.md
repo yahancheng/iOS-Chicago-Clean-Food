@@ -19,7 +19,8 @@ This app shows 2020 [inpection records](https://data.cityofchicago.org/Health-Hu
 - [x] Map view to show all restaurants
 
 
-[![Feature Video](http://img.youtube.com/vi/ylxBfRvFrjo/0.jpg)](https://www.youtube.com/watch?v=ylxBfRvFrjo&feature=youtu.be "ChicagoFood Demo")
+<img src="https://github.com/yahancheng/iOS-Chicago-Clean-Food/blob/main/feature-demo.gif" alt="Feature Video" width="250"/>
+
 
 
 ## Enviroonment

@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Xcode-12-green)
 ![](https://img.shields.io/badge/License-MIT-blue.svg)
 
-This app shows 2020 inpection records for more than six hundred restaurants in Chicago loop area. With this app, users can find clean and safe restaurants to dine in.
+This app shows 2020 [inpection records](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/data) for more than six hundred restaurants in Chicago loop area. With this app, users can find clean and safe restaurants to dine in.
 
 
 ## Features
@@ -19,7 +19,7 @@ This app shows 2020 inpection records for more than six hundred restaurants in C
 - [x] Map view to show all restaurants
 
 
-[![Feature Video](https://www.youtube.com/watch?v=ylxBfRvFrjo&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=ylxBfRvFrjo&feature=youtu.be "ChicagoFood Demo")
+[![Feature Video](http://img.youtube.com/vi/ylxBfRvFrjo/0.jpg)](https://www.youtube.com/watch?v=ylxBfRvFrjo&feature=youtu.be "ChicagoFood Demo")
 
 
 ## Enviroonment

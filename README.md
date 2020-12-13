@@ -23,7 +23,7 @@ This app shows 2020 [inpection records](https://data.cityofchicago.org/Health-Hu
 
 
 
-## Enviroonment
+## Environment
 
 | -  | Version |
 | ------- | ------- |
